@@ -13,7 +13,8 @@
 			"type": "image/png"
 		}
 	],
-	"start_url": "https://yasserkassem99.github.io/pwa-react-boilerplate/#/",
+	"start_url": "./",
+	"scope": ".",
 	"display": "standalone",
 	"background_color": "#1A1A1A",
 	"theme_color": "#0A0A0A",
